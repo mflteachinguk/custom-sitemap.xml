@@ -1,2 +1,2 @@
 # custom-sitemap.xml
-Supplemental sitemap listing static French and Spanish resource hubs not included in Blogger’s default sitemap. Includes printable quizzes and worksheets by year and term
+This repository contains a manually curated XML sitemap for [frenchandspanishresources.com](https://www.frenchandspanishresources.com), designed to improve indexing of static pages and resource hubs that are not automatically included in Blogger’s default sitemap.
